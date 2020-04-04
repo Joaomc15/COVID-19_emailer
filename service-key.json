@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "email-project-272723",
+  "private_key_id": "0d47255ad481ab224e61b18068c3dc8a9fb3fd24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG78mNVNRZcEOd\nL0MroGDbF6h0nZDHITYmOnQZyjt3kfZ4sU6DgDROtT2HiCSVDW65sseB1bKz6U1O\nfySlLX+e+tMfoM6KAOmjf/tCaeHjaAAcrG1Kln1Q6LzPTyS73fr1Yvkf6KKE96Sa\naCRfyHgxLFMiflVHi+Bg5mizJeJW4MmUrrl7s9oanz7mRzIrfAjel/4EGB+Aahkp\nMEhGY3gGHoZQxKZZAPjBlbzF8DhHsb4TUhpcNKRYaoTkAHb0Yfn89I9D8uHv4HSS\nWhdPOy6YzNwUK9QMxgRO4DJVd4gz1KeMiXLtL7IV8KvvSRoHaXoidEYJj7QYVO+x\nhIVFnglTAgMBAAECggEACT5D92xpi9/bpUhNuZ2zbtG6MrsizgQD+LAwfZPUiS6q\nZalSd9slKF9GqIugAbvS4EhK3SDgenhMp2j9CWW19nnIsAh3OSdLXnIIXLDHFkYF\nEDOOjRpf7o+9WTduOx7YcjAIWcxAR4sAG6KFqiOmrDnI803XSRevbNoQsaVWXYXy\nBa3y/UdEjCG3i3y9cfRjwJPWVSyuzC6xMyAFEP8grVk5LYbck9C4zpozcCHQ5RB4\n3gsCFd+F0OiLF6T1X+nWbJAQP69SdkvYzhnTHdHacvZ3rL7KNNBYfd9SGqbtSfZ3\n03JNxogxLz5E5BGhK20ANmVOB6FL5QrUJ//p6gtQxQKBgQDx+UW+xry/mw9mVKEU\npviSA1NXIviH8ncqq7AL238+jpTk2PqYyBJJ1/Vwg77eBmeLXgbwqc3BiKC8vVOb\noYtZXgLXDrxYvtRNSfS7bi58ZcnlFRuUDGPTPp6Sj5g/qBBuhRbt4NLYbV2jefFw\n4yE0FHYvfWabnUTxkTanQafndwKBgQDSd9+5b1QShSAuOEbFUgdo7nrq8DVHqUls\nGRCOKTKAyMW2B7vTslR5J6HfhvIpbLgIaid5MOjuoSB0OmF/73tNjHfoWHJbycJh\n2NxM+iNNclZ91SJDjnMJQaGHBWT0w8csdVcYEH1TSnhtabOazGBxEyqFYt5O12Bu\ngXvpnIacBQKBgCZTIOTSfVqrqIjAprKqr3wQ4sZOV6bQlGdBwiReo4y48IQ+iZJh\nPeRMPCeR9k0cHpJIVjkP6/LXPP4nznI75+JDrZd6UgKMVvvW1thI3zv8szmBWljc\njYMLy/nSnH6Yk+GtWrBah4qX59jYm5ERqFSjWQS0i+fhxOWt5kYfdASJAoGBAINZ\nFGJhvBIiysaNkH0siDtQOZ3NczLZz1yK9+4Af+gnZFwJz4p6TIWf2kHpsc9wbhmy\nRhg4EeZ64AopNRfmmQj4lQyHxjbKX2k5MaNIqCd5J8k37j5C9D/embPuBedLF04D\nnOsDv3LvkuCViuUcj0OCNpMv9JU3jJLqdC6C5O8RAoGAHp1PtOntv80iJoU2yQ79\n7uyt8+/yxkAj9ZwFSXCQ5RG/YYraSto5QKn/iUhDp1CRDtyP2PSjHV9bTg4mOolx\nTIwDOvSGjxEETUYDxo8BYHFFwUpHzFQsLCaNb9gcgOwaI7/xqaVl3tOYGguRp6Vn\nhPnBATRC8LmcfIHSAqQPaQ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "covid-emailer@email-project-272723.iam.gserviceaccount.com",
+  "client_id": "107868184678153774644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covid-emailer%40email-project-272723.iam.gserviceaccount.com"
+}
